@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+openpyxl
+plotly
+openai
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
